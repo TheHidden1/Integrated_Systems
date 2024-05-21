@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\MVCAdminApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\gorgi\\downloads\\lab5_grupab\\lab5_grupab\\mvcadminapplication\\mvcadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|c:\\users\\gorgi\\downloads\\lab5_grupab\\lab5_grupab\\mvcadminapplication\\mvcadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A8A4523-8DEA-4BFB-85E0-E6CACBE95C75}|MVCAdminApplication\\MVCAdminApplication.csproj|solutionrelative:mvcadminapplication\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\MVCAdminApplication\\MVCAdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\MVCAdminApplication\\MVCAdminApplication\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "MVCAdminApplication\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T21:09:07.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\MVCAdminApplication\\MVCAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MVCAdminApplication\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\MVCAdminApplication\\MVCAdminApplication\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MVCAdminApplication\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAswGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:35:54.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

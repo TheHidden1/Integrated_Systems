@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\gorgi\\downloads\\lab5_grupab\\lab5_grupab\\integrated_systems\\eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\gorgi\\downloads\\lab5_grupab\\lab5_grupab\\integrated_systems\\eshop.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|c:\\users\\gorgi\\downloads\\lab5_grupab\\lab5_grupab\\integrated_systems\\eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F430419-6F39-4DF6-8DC4-DFC1DD7A0E08}|EShop.Web\\EShop.Web.csproj|solutionrelative:eshop.web\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|c:\\users\\gorgi\\downloads\\lab5_grupab\\lab5_grupab\\integrated_systems\\eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ED5C71-5A20-4B99-9F19-ECB0BCE2FFC5}|EShop.Repository\\EShop.Repository.csproj|solutionrelative:eshop.repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|c:\\users\\gorgi\\downloads\\lab5_grupab\\lab5_grupab\\integrated_systems\\eshop.service\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72913C86-C107-4398-8248-95613BBF07D2}|EShop.Service\\EShop.Service.csproj|solutionrelative:eshop.service\\implementation\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Repository\\Implementation\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Repository\\Implementation\\OrderRepository.cs",
+              "RelativeToolTip": "EShop.Repository\\Implementation\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:29:11.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Service\\Implementation\\OrderService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\OrderService.cs",
+              "ToolTip": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Service\\Implementation\\OrderService.cs",
+              "RelativeToolTip": "EShop.Service\\Implementation\\OrderService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:29:04.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Repository\\Implementation\\Repository.cs",
+              "RelativeDocumentMoniker": "EShop.Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Repository\\Implementation\\Repository.cs",
+              "RelativeToolTip": "EShop.Repository\\Implementation\\Repository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:49:54.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Service\\Implementation\\MovieService.cs",
+              "RelativeDocumentMoniker": "EShop.Service\\Implementation\\MovieService.cs",
+              "ToolTip": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Service\\Implementation\\MovieService.cs",
+              "RelativeToolTip": "EShop.Service\\Implementation\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:49:08.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeDocumentMoniker": "EShop.Web\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "C:\\Users\\gorgi\\Downloads\\Lab5_GrupaB\\Lab5_GrupaB\\integrated_systems\\EShop.Web\\Controllers\\API\\AdminController.cs",
+              "RelativeToolTip": "EShop.Web\\Controllers\\API\\AdminController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:03:00.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

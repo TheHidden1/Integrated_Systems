@@ -1,0 +1,24 @@
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.deps.json
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.AssemblyReference.cache
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfoInputs.cache
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.AssemblyInfo.cs
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\obj\Debug\net8.0\refint\EShop.Domain.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\obj\Debug\net8.0\EShop.Domain.pdb
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Domain\obj\Debug\net8.0\ref\EShop.Domain.dll

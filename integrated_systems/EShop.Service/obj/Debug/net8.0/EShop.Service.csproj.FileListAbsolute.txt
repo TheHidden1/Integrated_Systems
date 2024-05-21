@@ -1,0 +1,34 @@
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Service.deps.json
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Service.dll
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Service.pdb
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Repository.dll
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Repository.pdb
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.csproj.AssemblyReference.cache
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.AssemblyInfoInputs.cache
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.AssemblyInfo.cs
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Se.2AB3CF61.Up2Date
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.dll
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\refint\EShop.Service.dll
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.pdb
+C:\Users\Stefani K\Downloads\Lab4\integrated_systems\EShop.Service\obj\Debug\net8.0\ref\EShop.Service.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Service.deps.json
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Service.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Service.pdb
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Domain.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Repository.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Domain.pdb
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\bin\Debug\net8.0\EShop.Repository.pdb
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.csproj.AssemblyReference.cache
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.AssemblyInfoInputs.cache
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.AssemblyInfo.cs
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Se.2AB3CF61.Up2Date
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\refint\EShop.Service.dll
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\EShop.Service.pdb
+C:\Users\gorgi\Downloads\Lab5_GrupaB\Lab5_GrupaB\integrated_systems\EShop.Service\obj\Debug\net8.0\ref\EShop.Service.dll
